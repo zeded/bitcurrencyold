@@ -28,6 +28,7 @@ namespace Checkpoints
         ( 95840, uint256("0x63cf390980f4e1fa88985a62761dec1f43b40e66b5e38e9492ef128e9c77f4f7") ) // network split
         ( 103500, uint256("0x64793cc831fb8e6a76c91576c61365d9fffdfe37c9a62bdecfb491aa8605ce40") )
         ( 108640, uint256("0xa9a533bcf96669756bb74e23a521ac3567db5cbf0bf528fc53a42eeb4397d046") )
+        ( 112396, uint256("0xa8602fff5f6bc54acd53cb466a0dabc87daa927fcbba0e8dc1e2f2447538373d") )
     ;
 
     // TestNet has no checkpoints
